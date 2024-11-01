@@ -1,4 +1,4 @@
-# Automated Multi-Account Login Tester with Puppeteer
+#  Multi-Account Login Tester For PUBG
 
 An advanced automation tool using **Puppeteer** with **Stealth Plugin** to test multiple login credentials, log successes and failures, and handle 2FA prompts. Designed to streamline and efficiently handle large volumes of account logins with support for proxies, resource optimization, and dynamic user-agent rotation.
 
